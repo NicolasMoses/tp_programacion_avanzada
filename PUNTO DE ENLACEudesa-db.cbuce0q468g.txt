@@ -1,0 +1,8 @@
+PUNTO DE ENLACE:udesa-db.cbuce0q468gn.us-east-2.rds.amazonaws.com
+
+IDENTIFICADOR INSTANCIA:udesa-db
+Maintenace database:postges
+Nombre usuario maestro: postgres
+password: 
+nombre del grupo de seguridad de VPC: rds_publica 
+PUERTO:5432
